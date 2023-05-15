@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Modified MODIFIED New user Registratoin AGAIN  AGAIN for DevOps Learning</h1>
-    <p>Create a User account.</p>
+    <h1>This registration app is now implmenting CI/CD with Ansible, Github, Docker and Jenkins</h1>
+    <p>It is deploying to AWS and pulling images from DockerHub!!.</p>
     <hr>
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>

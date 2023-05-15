@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Modified New user Registratoin AGAIN for DevOps Learning</h1>
-    <p>Create an account.</p>
+    <h1>Modified MODIFIED New user Registratoin AGAIN  AGAIN for DevOps Learning</h1>
+    <p>Create a User account.</p>
     <hr>
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
